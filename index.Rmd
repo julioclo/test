@@ -76,6 +76,8 @@ qqline(residuals(my_fit))
 ```
 
 # my new model
+
+# simple silly text
 ```{r}
 data1 <- spanish %>%
   select(., x = X14466gll, y = X14459gll)
